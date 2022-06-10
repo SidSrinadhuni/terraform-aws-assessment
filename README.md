@@ -1,10 +1,10 @@
 # terraform-aws-assessment
 
-Requirements <br />
+Requirements: <br />
 terraform	>= 0.13.1 <br />
 aws	>= 4.5 <br />
 
-Usage <br />
+Usage: <br />
 To run this example you need to execute: <br />
 
 $ terraform init <br />
